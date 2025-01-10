@@ -21,8 +21,8 @@ This is a MERN stack implementation of a Zerodha-like trading application, desig
 ## Installation and Setup
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/mern-zerodha-clone.git
-cd mern-zerodha-clone
+git clone https://github.com/RitikaMalik71/Zerodha.git
+cd Zerodha
 
 
 # MERN Stack Zerodha Clone
