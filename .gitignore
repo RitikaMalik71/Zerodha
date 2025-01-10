@@ -1,0 +1,22 @@
+# Ignore node_modules in all subdirectories
+node_modules/
+
+# Ignore .env files in all subdirectories
+.env
+frontend/.env
+backend/.env
+dashboard/.env
+
+# Ignore OS and IDE-specific files
+.DS_Store
+*.log
+Thumbs.db
+
+# Ignore build or dist folders
+frontend/build/
+backend/dist/
+dashboard/build/
+
+# Ignore package-lock.json or yarn.lock if needed (optional)
+**/package-lock.json
+**/yarn.lock
